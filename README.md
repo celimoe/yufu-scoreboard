@@ -4,7 +4,7 @@ custom scoreboard for garry's mod. made because the server i play on has an awfu
 
 ## demo
 
-https://github.com/user-attachments/assets/fce5c029-9f11-4404-a7ee-8ffb089833e2
+https://github.com/user-attachments/assets/152a2c66-7dd5-404a-8e9d-ca104d27d4ed
 
 <sup>looks laggy because gmod doesn't run properly on macOS.</sub>
 
